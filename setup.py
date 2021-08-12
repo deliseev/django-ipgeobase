@@ -16,7 +16,7 @@ if is_py2:
 
 setup(
     name='django-ipgeobase',
-    version='1.0.7',
+    version='1.0.8',
     author='Ivan Petukhov',
     author_email='satels@gmail.com',
     packages=['django_ipgeobase', 'django_ipgeobase.management',
